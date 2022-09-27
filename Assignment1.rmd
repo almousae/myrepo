@@ -77,5 +77,3 @@ ggplot(cancellations_and_delays) +
 
 There is a strong increasing relationship between proportion of cancellations and average departure delay and a strong increasing relationship between proportion of cancellations and average arrival delay.
 
-
-
