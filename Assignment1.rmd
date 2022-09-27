@@ -13,7 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 library(dplyr)
-install.packages("nycflights13")
 library(nycflights13)
 library(ggplot2)
 ```
@@ -76,4 +75,6 @@ ggplot(cancellations_and_delays) +
 ```
 
 There is a strong increasing relationship between proportion of cancellations and average departure delay and a strong increasing relationship between proportion of cancellations and average arrival delay.
+
+
 
